@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Complete deployment script: Terraform infrastructure + website files
+## Complete deployment script: Terraform infrastructure + website files
 # This script handles both infrastructure provisioning and content deployment
 
 set -e
